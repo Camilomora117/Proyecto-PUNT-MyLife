@@ -1,0 +1,89 @@
+
+  
+  .AppM {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+  }
+
+  .bodyM {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -130px;
+  }
+  
+  .headerM {
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(16, 16, 20);
+    width: 200px;
+    height: 70px;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 5px solid rgb(228, 228, 228);
+  }
+  
+  h1 {
+    align-items: center;
+    justify-content: center;
+    color: wheat;
+  }
+  
+  .botonM {
+    background-color: rgb(28, 210, 0);
+    border: 1px solid rgb(228, 228, 228);
+    border-radius: 6px;
+    min-width: 120px;
+    height: 60px;
+    margin-right: 40px;
+  }
+  
+  .imagenM {
+    width: 100%;
+    height: 80%;
+    padding: 0;
+    margin-left: 100px;
+  }
+  
+  .imgM {
+    max-width: 700px;
+    min-width: 700px;
+    max-height: 520px;
+    border-radius: 6px;
+    margin-left: -180px;
+  }
+
+.descripcionM {
+    color:wheat;
+    align-items: center;
+}
+
+.contenedorDes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fPimMH {
+    margin-top: 2px;
+    width: 790px;;
+} 
+.jjfwLM {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenidoM {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
