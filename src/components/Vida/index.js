@@ -31,6 +31,17 @@ const Vida = () => {
                 </div>
               </div>
             </Carousel.Item>
+
+            <Carousel.Item>
+              <div className='contenidoV'>
+                <div className="imagenV">
+                  <img className="imgV" src="https://cdn.discordapp.com/attachments/967211557274669097/1049752623663812788/WhatsApp_Image_2022-12-06_at_1.14.24_PM.jpeg" />
+                </div>
+                <div className='contenedorDes'>
+                  <h2 className='descripcionV'>Me gusta Andrea y yo :)</h2>
+                </div>
+              </div>
+            </Carousel.Item>
             
             <Carousel.Item>
               <div className='contenidoV'>

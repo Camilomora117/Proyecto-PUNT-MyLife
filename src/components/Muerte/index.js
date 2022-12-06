@@ -35,7 +35,7 @@ const Muerte = () => {
             <Carousel.Item>
               <div className='contenidoM'>
                 <div className="imagenM">
-                  <img className="imgM" src="https://fotografias.lasexta.com/clipping/cmsimages01/2015/06/03/2A28A047-BC31-4768-B176-EE989C536466/default.jpg?crop=778,438,x11,y0&width=1900&height=1069&optimize=low" />
+                  <img className="imgM" src="https://cdn.discordapp.com/attachments/967211557274669097/1049752187326185533/web-eucharistic-adoration-host-nheyob-cc_1.jpg" />
                 </div>
                 <div className='contenedorDes'>
                   <h2 className='descripcionM'>Familia muy catolica</h2>
